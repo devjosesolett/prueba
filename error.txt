@@ -1,2 +1,2 @@
 
-Hola mundo esto se escribio en la rama A.
+Hola mundo esto se escribio en la rama B.
